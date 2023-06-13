@@ -27,6 +27,7 @@ lib/bs
 .bsb.lock
 /node_modules/
 .DS_Store
+/_build/
 
 tests/Scratch.res
 tests/Scratch.js
